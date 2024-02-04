@@ -1,4 +1,4 @@
-# Kaggle Competition - Binary Classification with a Bank Churn Dataset
+# 🚀🏦Kaggle Competition - Binary Classification with a Bank Churn Dataset
 
 ## Introduction
 
